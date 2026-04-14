@@ -1,0 +1,6 @@
+AirportFrom,AirportTo,delays
+LAX,	SFO,	598
+SFO,	LAX,	572
+LAX,	LAS,	482
+DAL,	HOU,	477
+HOU,	DAL,	451

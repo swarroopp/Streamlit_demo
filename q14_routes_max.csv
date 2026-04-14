@@ -1,0 +1,6 @@
+AirportFrom,AirportTo,total_flights
+LAX,	SFO,	1079
+SFO,	LAX,	1077
+OGG,	HNL,	982
+HNL,	OGG,	951
+SAN,	LAX,	935
